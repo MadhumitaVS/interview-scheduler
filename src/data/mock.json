@@ -1,0 +1,31 @@
+{
+  "user": { "id": 1, "name": "Madhumita V S", "email": "madhumita@example.com", "timezone": "Asia/Kolkata" },
+  "interviews": [
+    {
+      "id": "int-001",
+      "company": "Virtual Tech Services",
+      "role": "ML Intern",
+      "date": "2025-11-20",
+      "time": "15:00",
+      "mode": "Google Meet",
+      "join_link": "https://meet.example.com/int-001",
+      "interviewer": "Mr. Karthik",
+      "status": "scheduled",
+      "attendance": null,
+      "notes": ""
+    },
+    {
+      "id": "int-000",
+      "company": "Prodigy Infotech",
+      "role": "Data Science Intern",
+      "date": "2025-11-10",
+      "time": "11:00",
+      "mode": "Zoom",
+      "join_link": "https://zoom.example.com/abc",
+      "interviewer": "Ms. Vaishnavi",
+      "status": "completed",
+      "attendance": "attended",
+      "notes": "Shared project details"
+    }
+  ]
+}
